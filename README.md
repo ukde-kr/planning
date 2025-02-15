@@ -28,40 +28,15 @@ kick off 24시간 이전 - 2월 14일 금요일 오전 9시 59분까지 - 최종
 	<tbody>
 		<tr>
 			<td align="center"><font color="#333333">
-			<a href="https://github.com/jihyojeon"><img alt="" src="https://avatars.githubusercontent.com/u/32332164?v=4" width="100px;" />
-			<br />
-			<sub>jihyojeon</sub></a>
-			<br />
-			<a href="#eventOrganizing-jihyojeon" title="Event Organizing">📋</a>
-			<a href="#ideas-jihyojeon" title="Ideas, Planning, &amp; Feedback">🤔</a>
-			<a href="#content-jihyojeon" title="Content">🖋</a>
-			<a href="#question-jihyojeon" title="Leading Discussion">💬</a>
-			</font></td>
-			<td align="center"><font color="#333333">
-			<a href="https://github.com/LeslieSuh"><img alt="" src="https://avatars.githubusercontent.com/u/93383909?v=4" width="100px;" />
-			<br />
-			<sub>LeslieSuh</sub></a>
-			<br />
-			<a href="#ideas-LeslieSuh" title="Ideas, Planning, &amp; Feedback">🤔</a>
-			<a href="#content-LeslieSuh" title="Content">🖋</a>
-			<a href="#question-LeslieSuh" title="Leading Discussion">💬</a>
-			<td align="center"><font color="#333333">
 			<a href="https://github.com/chaeyoonyunakim"><img alt="" src="https://avatars.githubusercontent.com/u/71925297?v=4" width="100px;" />
 			<br />
 			<sub>chaeyoonyunakim</sub></a>
 			<br />
-			<a href="#ideas-chaeyoonyunakim" style="text-align: -webkit-center;" title="Ideas, Planning, &amp; Feedback">🤔</a>
+			<a href="#eventOrganizing-chaeyoonyunakim" title="Event Organizing">📋</a>
+			<a href="#ideas-chaeyoonyunakim" title="Ideas, Planning, &amp; Feedback">🤔</a>
 			<a href="#content-chaeyoonyunakim" title="Content">🖋</a>
 			<a href="#question-chaeyoonyunakim" title="Leading Discussion">💬</a>
 			</font></td>
-			<td align="center"><font color="#333333">
-			<a href="https://github.com/jjeommeo"><img alt="" src="https://avatars.githubusercontent.com/u/38942020?v=4" width="100px;" />
-			<br />
-			<sub>jjeommeo</sub></a>
-			<br />
-			<a href="#ideas-jjeommeo" style="text-align: -webkit-center;" title="Ideas, Planning, &amp; Feedback">🤔</a>
-			<a href="#content-jjeommeo" title="Content">🖋</a>
-			<a href="#question-jjeommeo" title="Leading Discussion">💬</a>
 		</tr>
 	</tbody>
 </table>
