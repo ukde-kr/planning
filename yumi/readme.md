@@ -1,10 +1,16 @@
 # Study Plan
 Week 1
+
 Week 2 - The concept of AI agents & Understanding of reinforcement learning
+
 Week 3 - Understanding of the design/construction of AI agents & Multi-Agent Reinforcement Learning (MARL) and Reinforcement learning from Human Feedback (RLHF)
+
 Week 4 - 
+
 Week 5 -
+
 Week 6 - 
+
 "AI Agent-level real-time financial analysis AI"
 
 # Materials
