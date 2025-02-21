@@ -37,6 +37,14 @@ kick off 24시간 이전 - 2월 14일 금요일 오전 9시 59분까지 - 최종
 			<a href="#content-chaeyoonyunakim" title="Content">🖋</a>
 			<a href="#question-chaeyoonyunakim" title="Leading Discussion">💬</a>
 			</font></td>
+			<td align="center"><font color="#333333">
+			<a href="https://github.com/yumi-h-1"><img alt="" src="https://avatars.githubusercontent.com/u/111271496?v=4" width="100px;" />
+			<br />
+			<sub>yumiheo</sub></a>
+			<br />
+			<a href="#ideas-yumiheo" title="Ideas, Planning, &amp; Feedback">🤔</a>
+			<a href="#content-yumiheo" title="Content">🖋</a>
+			</font></td>
 		</tr>
 	</tbody>
 </table>
