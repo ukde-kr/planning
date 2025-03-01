@@ -12,7 +12,7 @@ This project aims to explore and document my learning journey with Chaeyoona, fo
 
 1. Core Concepts Study
    - Organize a learning plan; what/how to do with the community.
-   - Review fundamental principles through reading and watching [videos](../ref/dump.md).
+   - Review fundamental principles through reading and watching [videos](../chaeyoona/ref/dump.md).
    - Plan what needs to be done to deploy development environment in a forked repository.
    - Complete self-assessments of what level of practice I may try to have on hands-on exercises for next steps.
 
@@ -25,4 +25,4 @@ This project aims to explore and document my learning journey with Chaeyoona, fo
 
 ## References
 
-- [Playlist](../ref/dump.md)
+- [Playlist](../chaeyoona/ref/dump.md)
