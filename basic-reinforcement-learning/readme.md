@@ -21,7 +21,10 @@ Week 3
 - An introduction to Multi-Agents Reinforcement Learning (MARL) (https://huggingface.co/learn/deep-rl-course/en/unit7/introduction-to-marl)
 - Illustrating Reinforcement Learning from Human Feedback (RLHF) (https://huggingface.co/blog/rlhf)
 
-Week 4, 5, 6
+Week 4 - 6
 - Spinning Up (https://spinningup.openai.com/en/latest/user/introduction.html)
 - Gymnasium(Gymnasium) (https://github.com/Farama-Foundation/Gymnasium)
 - Deep Reinforcement Learning for Maze Solving (https://www.samyzaf.com/ML/rl/qmaze.html)
+
+*Week 4*
+- An Introduction to Q-Learning: A Tutorial For Beginners (https://www.datacamp.com/tutorial/introduction-q-learning-beginner-tutorial?dc_referrer=https%3A%2F%2Fwww.google.com%2F)
