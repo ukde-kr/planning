@@ -27,4 +27,7 @@ Week 4 - 6
 - Deep Reinforcement Learning for Maze Solving (https://www.samyzaf.com/ML/rl/qmaze.html)
 
 *Week 4*
-- An Introduction to Q-Learning: A Tutorial For Beginners (https://www.datacamp.com/tutorial/introduction-q-learning-beginner-tutorial?dc_referrer=https%3A%2F%2Fwww.google.com%2F)
+- An Introduction to Q-Learning: A Tutorial For Beginners (https://www.datacamp.com/tutorial/introduction-q-learning-beginner-tutorial)
+
+*Week 5*
+- SARSA Reinforcement Learning Algorithm in Python: A Full Guide (https://www.datacamp.com/tutorial/sarsa-reinforcement-learning-algorithm-in-python)
