@@ -26,8 +26,8 @@ Week 4 - 6
 - Gymnasium(Gymnasium) (https://github.com/Farama-Foundation/Gymnasium)
 - Deep Reinforcement Learning for Maze Solving (https://www.samyzaf.com/ML/rl/qmaze.html)
 
-*Week 4*
+Week 4
 - An Introduction to Q-Learning: A Tutorial For Beginners (https://www.datacamp.com/tutorial/introduction-q-learning-beginner-tutorial)
 
-*Week 5*
+Week 5
 - SARSA Reinforcement Learning Algorithm in Python: A Full Guide (https://www.datacamp.com/tutorial/sarsa-reinforcement-learning-algorithm-in-python)
