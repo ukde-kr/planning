@@ -1,0 +1,17 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+imbalanced-learn = "==0.12.3"
+imblearn = "==0.0"
+shap = "==0.41.0"
+fastparquet = "==2024.5.0"
+pychain = "*"
+python-dotenv = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.9"
